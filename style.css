@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: red;
+    width: 100vw;
+    font-size: 2rem;
+}
+
+main{
+    display: flex;
+    width: 100vw;
+}
+
+.left{
+    background-color: green;
+    width: 25%;
+    font-size: 2rem;
+}
+
+.right{
+    background-color: darkgreen;
+    width: 75%;
+    font-size: 2rem;
+}
+
+footer{
+    background-color: rgb(166, 255, 0);
+    width: 100vw;
+    font-size: 2rem;
+}
+
+.filterSettings{
+    background-color: rgb(0, 255, 140);
+}
+
+.content{
+    background-color: rgb(44, 77, 116);
+}
+
+.imgItem{
+    height: 200px;
+}
