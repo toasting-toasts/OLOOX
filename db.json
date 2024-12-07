@@ -11,6 +11,12 @@
       "name":"Ivan",
       "surname":"Melnyk",
       "OXLcredits":1000000
+    },
+    {
+      "id":3,
+      "name":"Andiy",
+      "surname":"Glushchenko",
+      "OXLcredits":1000
     }
   ]
 }
